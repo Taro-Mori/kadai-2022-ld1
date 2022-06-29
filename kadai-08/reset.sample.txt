@@ -1,0 +1,6 @@
+git reset コマンド解説用サンプル
+git reste には
+--soft
+--mixed
+--hard
+の3種類がある
